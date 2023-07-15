@@ -9,6 +9,8 @@ This should include data preprocessing, model training, and model evaluation.
 ## 2. [Teaching and Mentoring](https://drive.google.com/file/d/1PsY7Dbx4Ihe9GOM4R6t1xZlR61dM23A0/view?usp=drive_link)
 - Prepare a 10-minute video explaining the key steps in your Jupyter Notebook to an
 audience with basic Python knowledge.
+
+> [Video Link - ](https://drive.google.com/file/d/1PsY7Dbx4Ihe9GOM4R6t1xZlR61dM23A0/view?usp=drive_link)
 ## 3. [Problem Solving](Tasks/feature_selection.md)
 - Write a short guidance note explaining feature selection techniques in machine learning
 to a hypothetical student struggling with the concept.
